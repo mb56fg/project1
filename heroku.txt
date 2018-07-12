@@ -1,0 +1,35 @@
+
+
+
+Host        ec2-54-204-43-7.compute-1.amazonaws.com
+Database    d5iqdk3vn8askl
+User        jvddgycjqdztan
+Port        5432
+Password    af26a94e251f33059f58b5ea50feeb8661a6d99be84407ab867fcfcb34825158
+
+URI postgres://jvddgycjqdztan:af26a94e251f33059f58b5ea50feeb8661a6d99be84407ab867fcfcb34825158@ec2-54-204-43-7.compute-1.amazonaws.com:5
+
+Heroku CLI  heroku pg:psql postgresql-convex-60971 --app project1-mb56fg
+
+
+
+
+
+
+
+
+Darksky     83984f460e3af01fb87fb1becd5a51a8
+
+export FLASK_APP=application.py
+export FLASK_DEBUG=1
+export DATABASE_URL=postgres://jvddgycjqdztan:af26a94e251f33059f58b5ea50feeb8661a6d99be84407ab867fcfcb34825158@ec2-54-204-43-7.compute-1.amazonaws.com:5
+
+https://www.youtube.com/watch?v=5AOkxqFaYEE     postgre
+
+URL TO DO
+
+clear
+
+
+export DATABASE_URL=postgres://jvddgycjqdztan:af26a94e251f33059f58b5ea50feeb8661a6d99be84407ab867fcfcb34825158@ec2-54-204-43-7.compute-1.amazonaws.com:5432/d5iqdk3vn8askl
+psql postgres://jvddgycjqdztan:af26a94e251f33059f58b5ea50feeb8661a6d99be84407ab867fcfcb34825158@ec2-54-204-43-7.compute-1.amazonaws.com:5432/d5iqdk3vn8askl
